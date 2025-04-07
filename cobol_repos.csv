@@ -1,0 +1,51 @@
+Name,Full Name,Stars,URL,Description
+cobol-programming-course,openmainframeproject/cobol-programming-course,3175,https://github.com/openmainframeproject/cobol-programming-course,"Training materials and labs for a ""Getting Started"" level course on COBOL"
+cobol-on-wheelchair,azac/cobol-on-wheelchair,984,https://github.com/azac/cobol-on-wheelchair,Micro web-framework for COBOL
+node-cobol,IonicaBizau/node-cobol,712,https://github.com/IonicaBizau/node-cobol,:tv: COBOL bridge for NodeJS which allows you to run COBOL code from NodeJS.
+CobolCraft,meyfa/CobolCraft,578,https://github.com/meyfa/CobolCraft,A Minecraft server written in COBOL
+cobweb,cloudflare/cobweb,362,https://github.com/cloudflare/cobweb,COBOL to WebAssembly compiler
+node.cobol,IonicaBizau/node.cobol,162,https://github.com/IonicaBizau/node.cobol,:pager: Node.js bridge for COBOL which allows you to run Node.js code from COBOL.
+proleap-cobol-parser,uwol/proleap-cobol-parser,158,https://github.com/uwol/proleap-cobol-parser,ProLeap ANTLR4-based parser for COBOL
+Cisp,lauryndbrown/Cisp,140,https://github.com/lauryndbrown/Cisp,A Common Lisp Interpreter Built in COBOL
+cobol-unit-test,neopragma/cobol-unit-test,119,https://github.com/neopragma/cobol-unit-test,Unit testing framework and sample code for batch Cobol programs.
+cobol-js-emscripten,moxon6/cobol-js-emscripten,115,https://github.com/moxon6/cobol-js-emscripten,
+beg-cobol-for-programmers,Apress/beg-cobol-for-programmers,104,https://github.com/Apress/beg-cobol-for-programmers,Source code for 'Beginning COBOL for Programmers' by Michael  Coughlan
+cobol-is-fun,IBM/cobol-is-fun,103,https://github.com/IBM/cobol-is-fun,This repository contains fun COBOL applications used in tutorials and code patterns on IBM Developer.
+cobol-rekt,avishek-sen-gupta/cobol-rekt,101,https://github.com/avishek-sen-gupta/cobol-rekt,An evolving toolkit of capabilities helpful for reverse engineering legacy Cobol code
+assimp,kotlin-graphics/assimp,98,https://github.com/kotlin-graphics/assimp,JVM Open Asset Import Library (Assimp)
+Cobol,Martinfx/Cobol,92,https://github.com/Martinfx/Cobol,"Open library with source code for OpenCobol, GnuCobol AS 400 COBOL, CL, CLP, CLLE, CBLLE"
+che-che4z-lsp-for-cobol,eclipse-che4z/che-che4z-lsp-for-cobol,91,https://github.com/eclipse-che4z/che-che4z-lsp-for-cobol,"COBOL Language Support provides autocomplete, highlighting and diagnostics for COBOL code and copybooks"
+aws-mainframe-modernization-carddemo,aws-samples/aws-mainframe-modernization-carddemo,88,https://github.com/aws-samples/aws-mainframe-modernization-carddemo,
+opensourcecobol4j,opensourcecobol/opensourcecobol4j,87,https://github.com/opensourcecobol/opensourcecobol4j,A new version of opensourcecobol. Translate COBOL to Java.
+perceptronCobol,victorqribeiro/perceptronCobol,76,https://github.com/victorqribeiro/perceptronCobol,A perceptron written in COBOL
+DSF,navikt/DSF,54,https://github.com/navikt/DSF,Det Sentrale Folketrygdsystemet
+z390,z390development/z390,47,https://github.com/z390development/z390,z390 Portable Mainframe Assembler and Emulator Project
+koopa,krisds/koopa,41,https://github.com/krisds/koopa,Koopa (COBOL) Parser Generator
+zOS-Client-Web-Enablement-Toolkit,IBM/zOS-Client-Web-Enablement-Toolkit,39,https://github.com/IBM/zOS-Client-Web-Enablement-Toolkit,
+WOPO,qgevans/WOPO,38,https://github.com/qgevans/WOPO,IRC bot in COBOL-74
+cobol-worker,cloudflare/cobol-worker,37,https://github.com/cloudflare/cobol-worker,
+taxe-fonciere,etalab/taxe-fonciere,36,https://github.com/etalab/taxe-fonciere,Code source des taxes foncières
+GitHub-Like-A-Boss,mishmanners/GitHub-Like-A-Boss,30,https://github.com/mishmanners/GitHub-Like-A-Boss,Repo for demoing live content
+TicTacTOBOL,ShaunLawrie/TicTacTOBOL,29,https://github.com/ShaunLawrie/TicTacTOBOL,"❎ A basic ""game"" in COBOL for learning"
+zCONNEE-Wildfire-Workshop,ibm-wsc/zCONNEE-Wildfire-Workshop,28,https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop,Collateral related to the Washington System Center z/OS Connect Wildfire Workshops
+hello-world,willdoescode/hello-world,26,https://github.com/willdoescode/hello-world,Hello World
+cobol-course,tanto259/cobol-course,24,https://github.com/tanto259/cobol-course,:book: A repository containing codes from the Enterprise COBOL for Business Application Programming course
+myMainframe,phanikiran99/myMainframe,23,https://github.com/phanikiran99/myMainframe,Basic Mainframe Programs to start with
+COBOL,EstesE/COBOL,22,https://github.com/EstesE/COBOL,Old COBOL programs (Westfield State College)
+COBOL-katas,mikebharris/COBOL-katas,22,https://github.com/mikebharris/COBOL-katas,Common programming katas with solutions in COBOL (GnuCOBOL)
+COBOL,Emzilla-01/COBOL,22,https://github.com/Emzilla-01/COBOL,"exercises from IBM Mainframes training - COBOL, JCL, DB2"
+docker-gnucobol,morecobol/docker-gnucobol,21,https://github.com/morecobol/docker-gnucobol,:floppy_disk: Docker Container with GNU Cobol pre-built
+COBOLUnit,gbeine/COBOLUnit,21,https://github.com/gbeine/COBOLUnit,COBOLUnit is a unit testing framework for OpenCOBOL (fork)
+array,lucapiccinelli/array,21,https://github.com/lucapiccinelli/array,COBOL implementation of dynamic array data structure
+zECS,walmartlabs/zECS,21,https://github.com/walmartlabs/zECS,z/OS-based Enterprise Cache Service
+learning-cobol,deniseyu/learning-cobol,21,https://github.com/deniseyu/learning-cobol,
+cobol-fundamentals-training,RocketSoftware/cobol-fundamentals-training,20,https://github.com/RocketSoftware/cobol-fundamentals-training,
+ServerlessCOBOLforAWS,BluAge/ServerlessCOBOLforAWS,20,https://github.com/BluAge/ServerlessCOBOLforAWS,"Documentation, samples and VSCode plugin for the Serverless COBOL for AWS solution from BluAge"
+COBWEB,addinall/COBWEB,19,https://github.com/addinall/COBWEB,A RESPONSIVE HTML5/CSS3 Javascript free Framework for COBOL systems
+cobweb,majormilan/cobweb,19,https://github.com/majormilan/cobweb,
+COBOL-Examples,shamrice/COBOL-Examples,18,https://github.com/shamrice/COBOL-Examples,A collection of example COBOL programs I wrote demonstrating different syntaxes and features.
+BankDemo,RocketSoftwareCOBOLandMainframe/BankDemo,18,https://github.com/RocketSoftwareCOBOLandMainframe/BankDemo,This project provides tutorials and demonstrations of features in the Rocket® Enterprise Developer and Rocket® Enterprise Server products. 
+CoBanking,vernieri/CoBanking,18,https://github.com/vernieri/CoBanking,Some Cobol Code
+COBOL-Files-Program,TheHittosLab/COBOL-Files-Program,18,https://github.com/TheHittosLab/COBOL-Files-Program,COBOL COURSE
+Coding,GaloisGirl/Coding,17,https://github.com/GaloisGirl/Coding,Coding for fun
+cobcurses,ve3wwg/cobcurses,17,https://github.com/ve3wwg/cobcurses,Cobcurses (migrated from SF)
